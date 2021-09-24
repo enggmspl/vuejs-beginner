@@ -48,7 +48,6 @@ export default {
     sendRequest() {
       this.submit = true
       this.submitions.push(this.contact)
-      console.log(this.contact)
     }
   }
 }

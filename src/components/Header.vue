@@ -11,6 +11,9 @@
             <router-link to="/contact">Contact</router-link>
             <router-link to="/about">About</router-link>
             <router-link to="/faq">FAQ</router-link>
+            <router-link to="/users">Users</router-link>
+            <router-link to="/form">Form</router-link>
+
           </div>
         </div>
       </div>
